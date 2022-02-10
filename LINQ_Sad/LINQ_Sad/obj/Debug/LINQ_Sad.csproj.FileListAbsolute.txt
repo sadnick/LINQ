@@ -1,0 +1,7 @@
+D:\Project C#\LINQ_Sad\LINQ_Sad\bin\Debug\LINQ_Sad.exe.config
+D:\Project C#\LINQ_Sad\LINQ_Sad\bin\Debug\LINQ_Sad.exe
+D:\Project C#\LINQ_Sad\LINQ_Sad\bin\Debug\LINQ_Sad.pdb
+D:\Project C#\LINQ_Sad\LINQ_Sad\obj\Debug\LINQ_Sad.csproj.AssemblyReference.cache
+D:\Project C#\LINQ_Sad\LINQ_Sad\obj\Debug\LINQ_Sad.csproj.CoreCompileInputs.cache
+D:\Project C#\LINQ_Sad\LINQ_Sad\obj\Debug\LINQ_Sad.exe
+D:\Project C#\LINQ_Sad\LINQ_Sad\obj\Debug\LINQ_Sad.pdb
