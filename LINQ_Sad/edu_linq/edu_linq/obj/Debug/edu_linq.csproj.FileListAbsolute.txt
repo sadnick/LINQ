@@ -1,0 +1,7 @@
+D:\Project C#\edu_linq\edu_linq\obj\Debug\edu_linq.csproj.AssemblyReference.cache
+D:\Project C#\edu_linq\edu_linq\obj\Debug\edu_linq.csproj.CoreCompileInputs.cache
+D:\Project C#\edu_linq\edu_linq\bin\Debug\edu_linq.exe.config
+D:\Project C#\edu_linq\edu_linq\bin\Debug\edu_linq.exe
+D:\Project C#\edu_linq\edu_linq\bin\Debug\edu_linq.pdb
+D:\Project C#\edu_linq\edu_linq\obj\Debug\edu_linq.exe
+D:\Project C#\edu_linq\edu_linq\obj\Debug\edu_linq.pdb
